@@ -8,7 +8,7 @@ This repository contains an independent analysis of sea turtle nesting data coll
 1) `Sea_Turtle_Nesting_Florida_2020_2024.pdf': Final report with visualizations
 
 ## Author
-Charles Steadman
+Charles Steadman, BA
 Indepdent Researcher
 
 ## Status
